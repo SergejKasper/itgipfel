@@ -19,7 +19,6 @@
     {
         "filename": "design.html",
         "attr": {
-            "data-background": "#ff0000"
         }
     },
     {
@@ -34,12 +33,6 @@
     },
     {
         "filename": "roadmap3.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "danke.html",
-        "attr": {
-        }
+        "attr": {}
     }
 ]
